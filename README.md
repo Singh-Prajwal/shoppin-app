@@ -32,7 +32,7 @@ cd swipe-products
 
 2. **Install Dependencies**
 ```bash
-npm install
+npm install --legacy-peers-deps
 ```
 
 3. **Run the App Locally**
